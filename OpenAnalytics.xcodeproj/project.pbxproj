@@ -39,12 +39,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		FA3B676B186482640013ACEE = {
+		FA2654F11864840000804737 /* OpenUDID */ = {
 			isa = PBXGroup;
 			children = (
 				FA2654ED186482E200804737 /* OpenUDID.h */,
 				FA2654EE186482E200804737 /* OpenUDID.m */,
+			);
+			name = OpenUDID;
+			sourceTree = "<group>";
+		};
+		FA3B676B186482640013ACEE = {
+			isa = PBXGroup;
+			children = (
 				FA3B677D186482640013ACEE /* OpenAnalytics */,
+				FA2654F11864840000804737 /* OpenUDID */,
 				FA3B6776186482640013ACEE /* Frameworks */,
 				FA3B6775186482640013ACEE /* Products */,
 			);
