@@ -29,4 +29,4 @@ That's it!
 
 *Improvements welcome*
 
-There's a number of improvements te made - such as queuing up page views if the device is offline, or sending more device information back to Google Analytics. Do not hesitate to make some improvements and commit them!
+There's a number of improvements to make - such as queuing up page views if the device is offline, or sending more device information back to Google Analytics. Do not hesitate to make some improvements and commit them!
